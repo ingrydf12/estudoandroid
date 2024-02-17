@@ -1,4 +1,3 @@
-package javaConceitos;
 public class arquivointrod {
     public static void main(String[] args) {
         int idade = 18;

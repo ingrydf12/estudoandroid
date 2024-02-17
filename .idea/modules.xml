@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafios.iml" filepath="$PROJECT_DIR$/desafios/desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaConceitos/javaConceitos.iml" filepath="$PROJECT_DIR$/javaConceitos/javaConceitos.iml" />
       <module fileurl="file://$PROJECT_DIR$/notasAndroid.iml" filepath="$PROJECT_DIR$/notasAndroid.iml" />
     </modules>
   </component>
