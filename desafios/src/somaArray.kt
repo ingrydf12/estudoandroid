@@ -16,6 +16,6 @@ fun main() {
     println("${somaArray(inputAr)}")// chama a fun somaArray e imprime o array colocado dentro
 }
 
-//split divide a string em substrings
-// map aplica uma função a cada elemento da lista resultante do split, entao o conversor para inteiro é aplicado a cada elemento
-// it referencia a cada elemento
+/* split divide a string em substrings
+ map aplica uma função a cada elemento da lista resultante do split, entao o conversor para inteiro é aplicado a cada elemento
+it referencia a cada elemento */
